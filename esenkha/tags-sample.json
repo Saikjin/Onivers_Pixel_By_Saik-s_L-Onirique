@@ -1,0 +1,65 @@
+[
+    {
+        "id": "mmo",
+        "label": "MMO",
+        "category": "type",
+        "color": "#a855f7",
+        "mode": "games"
+    },
+    {
+        "id": "coop",
+        "label": "Coop",
+        "category": "type",
+        "color": "#db7093",
+        "mode": "games"
+    },
+    {
+        "id": "current",
+        "label": "Actuel",
+        "category": "status",
+        "color": "#5cba8a",
+        "mode": "games"
+    },
+    {
+        "id": "former",
+        "label": "Ancien",
+        "category": "status",
+        "color": "#5c576b",
+        "mode": "games"
+    },
+    {
+        "id": "vitrine",
+        "label": "Vitrine",
+        "category": "type",
+        "color": "#38bdf8",
+        "mode": "projects"
+    },
+    {
+        "id": "outil",
+        "label": "Outil",
+        "category": "type",
+        "color": "#fb923c",
+        "mode": "projects"
+    },
+    {
+        "id": "wip",
+        "label": "En cours",
+        "category": "status",
+        "color": "#facc15",
+        "mode": "projects"
+    },
+    {
+        "id": "done",
+        "label": "Terminé",
+        "category": "status",
+        "color": "#5cba8a",
+        "mode": "projects"
+    },
+    {
+        "id": "abandoned",
+        "label": "Abandonné",
+        "category": "status",
+        "color": "#5c576b",
+        "mode": "projects"
+    }
+]

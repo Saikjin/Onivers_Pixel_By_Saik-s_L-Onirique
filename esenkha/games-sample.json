@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Final Fantasy XIV",
+        "tag_type": "mmo",
+        "tag_status": "current",
+        "tag_others": [],
+        "image": "img\/76989053_p0_master1200.jpg",
+        "server": "Louisoix",
+        "old_servers": [
+            "Shiva",
+            "Odin"
+        ],
+        "main_character": "Esenkha",
+        "alt_characters": [
+            "Saya Kha",
+            "Nyx Umbra"
+        ],
+        "uid": "",
+        "guild": "",
+        "old_guilds": [
+            "Aetherwing"
+        ],
+        "sort_order": 0
+    },
+    {
+        "id": 2,
+        "name": "Arknights Endfield",
+        "tag_type": "coop",
+        "tag_status": "current",
+        "tag_others": [],
+        "image": "img\/142218982_p0_master1200.jpg",
+        "server": "",
+        "old_servers": [],
+        "main_character": "Esenkha",
+        "alt_characters": [],
+        "uid": "76561198XXXXXXX",
+        "sort_order": 1
+    },
+    {
+        "id": 3,
+        "name": "Guild Wars 2",
+        "tag_type": "mmo",
+        "tag_status": "former",
+        "tag_others": [],
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a7\/Guild_Wars_2_logo.png\/220px-Guild_Wars_2_logo.png",
+        "server": "",
+        "old_servers": [
+            "Aurora Glade",
+            "Desolation"
+        ],
+        "main_character": "Esenkha Nyx",
+        "alt_characters": [
+            "Zara Emberveil"
+        ],
+        "uid": "",
+        "sort_order": 2
+    }
+]
